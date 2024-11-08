@@ -1,4 +1,4 @@
-# Matrix Operations Utility
+# Matrix Operations Utility(testing branch)
 
 This project provides a set of functions for performing various matrix operations on 2D arrays. It includes functions for checking matrix properties, performing arithmetic operations, calculating determinants, and finding the inverse of matrices. These operations are implemented in C and include input validation for error handling.
 
